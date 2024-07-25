@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="Зелёный_слоник">Год - 1999\nРежиссёр - Светлана Баскова\nПродюсер - Олег Мавроматти\nАвтор сценария - Светлана Баскова</string>
+    <string name="Пять_бутылок_водки">Год - 2002\nРежиссёр - Светлана Баскова\nПродюсер - Владимир Зубков, Светлана Баскова\nАвтор сценария - Светлана Баскова</string>
+    <string name="Розовые_фламинго">Год - 1972\nРежиссёр - Джон Уотерс\nПродюсер - Джон Уотерс\nАвтор сценария - Джон Уотерс</string>
+    <string name="Дом_1000_трупов">Год - 2003\nРежиссёр - Роб Зомби\nПродюсеры - Эндрю Гивен, Энди Гулд\nАвтор сценария - Роб Зомби</string>
+    <string name="Клоуны_убийцы_из_космоса">Год - 1988\nРежиссёр - Стивен Чиодо\nПродюсеры - Чарльз Чиодо, Эдвард Чиодо, Стивен Чиодо\nАвторы сценария - Чарльз Чиодо, Стивен Чиодо</string>
+
+    <string name="about">О программе</string>
+    <string name="about_content">Программа про кино или чё-то в этом роде</string>
+    <string name="add">Добавить</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- задаем толщину и цвет рамки (тут синий) -->
+    <stroke
+        android:width="4dp"
+        android:color="#0000FF" />
+    <!-- задаем скругление углов -->
+    <corners android:radius="5dp" />
+    <!-- задаем отступы внутри рамки по 5 -->
+    <padding
+        android:bottom="5dip"
+        android:left="5dip"
+        android:right="5dip"
+        android:top="5dip" />
+</shape>
